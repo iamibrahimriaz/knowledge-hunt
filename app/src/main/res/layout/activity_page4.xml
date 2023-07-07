@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <TextView
+      android:id="@+id/text_view_contact"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Contact Us:"
+      android:textColor="#000000"
+      android:layout_marginTop="50dp"
+      android:layout_marginLeft="50dp"
+      android:textSize="20sp"
+      android:textStyle="bold" />
+
+  <Button
+      android:id="@+id/back_button_contact"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/text_view_contact"
+      android:layout_marginTop="25dp"
+      android:layout_marginLeft="50dp"
+      android:text="Back to Homepage" />
+
+  <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/dev_info_layout"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical"
+      android:layout_below="@id/back_button_contact"
+      android:layout_marginTop="50dp"
+      android:layout_marginBottom="25dp"
+      android:layout_marginLeft="25dp"
+      android:layout_marginRight="25dp">
+
+    <TextView
+        android:id="@+id/nameTextViewDev1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developer Name"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/emailTextViewDev1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email: developer@example.com"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/mobileTextViewDev1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mobile: +1234567890"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/githubTextViewDev1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GitHub: github.com/developer"
+        android:textSize="16sp" />
+
+
+    <TextView
+        android:id="@+id/nameTextViewDev2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developer Name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="50dp" />
+
+    <TextView
+        android:id="@+id/emailTextViewDev2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email: developer@example.com"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/mobileTextViewDev2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mobile: +1234567890"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/githubTextViewDev2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GitHub: github.com/developer"
+        android:textSize="16sp" />
+
+  </LinearLayout>
+
+
+</RelativeLayout>

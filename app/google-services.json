@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166910132502",
+    "project_id": "knowledge-hunt-2fa91",
+    "storage_bucket": "knowledge-hunt-2fa91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166910132502:android:3d6e7994f488d091f85037",
+        "android_client_info": {
+          "package_name": "com.example.educational_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166910132502-gajr26286pd8frto9b6l6vrmcfv18op5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCQn5Ez7gDW7fYzFZebd_xqPBvqlmAZ_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166910132502-gajr26286pd8frto9b6l6vrmcfv18op5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

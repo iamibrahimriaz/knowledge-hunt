@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/text_view_res"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Latest Circular:"
+        android:textColor="#000000"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/back_button_res"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_res"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="50dp"
+        android:text="Back to Homepage" />
+
+    <ListView
+        android:id="@+id/jobCircularsListView"
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:layout_below="@id/back_button_res"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp" />
+
+
+</RelativeLayout>

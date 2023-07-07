@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="job_titles">
+        <item>Job Title 1</item>
+        <item>Job Title 2</item>
+        <item>Job Title 3</item>
+        <!-- Add more job titles -->
+    </string-array>
+
+    <string-array name="job_links">
+        <item>https://example.com/job1</item>
+        <item>https://example.com/job2</item>
+        <item>https://example.com/job3</item>
+        <!-- Add more job links -->
+    </string-array>
+
+    <string-array name="job_positions">
+        <item>Position 1</item>
+        <item>Position 2</item>
+        <item>Position 3</item>
+        <!-- Add more job positions -->
+    </string-array>
+</resources>

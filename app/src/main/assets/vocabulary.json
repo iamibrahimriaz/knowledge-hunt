@@ -1,0 +1,1198 @@
+[
+  {
+    "englishWord": "apple",
+    "bengaliTranslation": "আপেল",
+    "wordMeaning": "A round fruit with red or green skin."
+  },
+  {
+    "englishWord": "banana",
+    "bengaliTranslation": "কলা",
+    "wordMeaning": "A long curved fruit with yellow skin."
+  },
+  {
+    "englishWord": "orange",
+    "bengaliTranslation": "কমলা",
+    "wordMeaning": "A round citrus fruit with orange skin."
+  },
+  {
+    "englishWord": "mango",
+    "bengaliTranslation": "আম",
+    "wordMeaning": "A juicy tropical fruit with yellow or green skin."
+  },
+  {
+    "englishWord": "strawberry",
+    "bengaliTranslation": "স্ট্রবেরি",
+    "wordMeaning": "A small red fruit with tiny seeds on the surface."
+  },
+  {
+    "englishWord": "watermelon",
+    "bengaliTranslation": "তরমুজ",
+    "wordMeaning": "A large melon with juicy red flesh and green skin."
+  },
+  {
+    "englishWord": "rose",
+    "bengaliTranslation": "গোলাপ",
+    "wordMeaning": "A fragrant flower with thorny stems and petals."
+  },
+  {
+    "englishWord": "daisy",
+    "bengaliTranslation": "ডেইজি",
+    "wordMeaning": "A small flower with white petals and a yellow center."
+  },
+  {
+    "englishWord": "tiger",
+    "bengaliTranslation": "বাঘ",
+    "wordMeaning": "A large carnivorous cat with a striped coat."
+  },
+  {
+    "englishWord": "elephant",
+    "bengaliTranslation": "হাতি",
+    "wordMeaning": "A huge mammal with a long trunk and ivory tusks."
+  },
+  {
+    "englishWord": "grape",
+    "bengaliTranslation": "আঙ্গুর",
+    "wordMeaning": "A small juicy fruit that grows in clusters."
+  },
+  {
+    "englishWord": "peach",
+    "bengaliTranslation": "পীচ",
+    "wordMeaning": "A soft, juicy fruit with a fuzzy skin."
+  },
+  {
+    "englishWord": "kiwi",
+    "bengaliTranslation": "কিউই",
+    "wordMeaning": "A small fruit with a brown, fuzzy skin and green flesh."
+  },
+  {
+    "englishWord": "cherry",
+    "bengaliTranslation": "চেরি",
+    "wordMeaning": "A small, round fruit with a pit and bright red or black skin."
+  },
+  {
+    "englishWord": "lily",
+    "bengaliTranslation": "লিলি",
+    "wordMeaning": "A beautiful flower with large, showy petals."
+  },
+  {
+    "englishWord": "daffodil",
+    "bengaliTranslation": "ড্যাফোডিল",
+    "wordMeaning": "A flower with a yellow or white trumpet-shaped center and petals."
+  },
+  {
+    "englishWord": "lion",
+    "bengaliTranslation": "সিংহ",
+    "wordMeaning": "A large carnivorous mammal of the cat family."
+  },
+  {
+    "englishWord": "giraffe",
+    "bengaliTranslation": "জিরাফ",
+    "wordMeaning": "A tall African mammal with a long neck and legs."
+  },
+  {
+    "englishWord": "penguin",
+    "bengaliTranslation": "পেঙ্গুইন",
+    "wordMeaning": "A flightless bird native to the Southern Hemisphere."
+  },
+  {
+    "englishWord": "piano",
+    "bengaliTranslation": "পিয়ানো",
+    "wordMeaning": "A large musical instrument with black and white keys."
+  },
+  {
+    "englishWord": "pear",
+    "bengaliTranslation": "নাসপাতি",
+    "wordMeaning": "A sweet, juicy fruit with a rounded shape and a narrow neck."
+  },
+  {
+    "englishWord": "apricot",
+    "bengaliTranslation": "খুবানি",
+    "wordMeaning": "A small, orange fruit with a soft flesh and a stone in the center."
+  },
+  {
+    "englishWord": "blueberry",
+    "bengaliTranslation": "ব্লুবেরি",
+    "wordMeaning": "A small, round fruit with a dark blue or purple skin."
+  },
+  {
+    "englishWord": "tulip",
+    "bengaliTranslation": "টিউলিপ",
+    "wordMeaning": "A bulbous plant with showy, cup-shaped flowers."
+  },
+  {
+    "englishWord": "sunflower",
+    "bengaliTranslation": "সূর্যমুখী",
+    "wordMeaning": "A tall plant with a large, round flower head and yellow petals."
+  },
+  {
+    "englishWord": "zebra",
+    "bengaliTranslation": "জেব্রা",
+    "wordMeaning": "A large mammal with black and white stripes."
+  },
+  {
+    "englishWord": "giraffe",
+    "bengaliTranslation": "জিরাফ",
+    "wordMeaning": "A tall African mammal with a long neck and legs."
+  },
+  {
+    "englishWord": "penguin",
+    "bengaliTranslation": "পেঙ্গুইন",
+    "wordMeaning": "A flightless bird native to the Southern Hemisphere."
+  },
+  {
+    "englishWord": "koala",
+    "bengaliTranslation": "কোয়ালা",
+    "wordMeaning": "A small, tree-dwelling marsupial native to Australia."
+  },
+  {
+    "englishWord": "guitar",
+    "bengaliTranslation": "গিটার",
+    "wordMeaning": "A stringed musical instrument played with the fingers or a pick."
+  },
+  {
+    "englishWord": "watermelon",
+    "bengaliTranslation": "তরমুজ",
+    "wordMeaning": "A large, juicy fruit with a green rind and red or pink flesh."
+  },
+  {
+    "englishWord": "pineapple",
+    "bengaliTranslation": "আনারস",
+    "wordMeaning": "A tropical fruit with a tough, spiky skin and sweet, juicy flesh."
+  },
+  {
+    "englishWord": "strawberry",
+    "bengaliTranslation": "স্ট্রবেরি",
+    "wordMeaning": "A small, sweet fruit with a bright red color and tiny seeds on the outside."
+  },
+  {
+    "englishWord": "rose",
+    "bengaliTranslation": "গোলাপ",
+    "wordMeaning": "A fragrant flower with thorny stems and petals in various colors."
+  },
+  {
+    "englishWord": "daisy",
+    "bengaliTranslation": "গেরবেরা",
+    "wordMeaning": "A small flower with white petals and a yellow center."
+  },
+  {
+    "englishWord": "elephant",
+    "bengaliTranslation": "হাতি",
+    "wordMeaning": "A large mammal with a long trunk, tusks, and big ears."
+  },
+  {
+    "englishWord": "tiger",
+    "bengaliTranslation": "বাঘ",
+    "wordMeaning": "A large carnivorous cat with a distinctive orange coat with black stripes."
+  },
+  {
+    "englishWord": "zebra",
+    "bengaliTranslation": "জেব্রা",
+    "wordMeaning": "A large mammal with black and white stripes."
+  },
+  {
+    "englishWord": "giraffe",
+    "bengaliTranslation": "জিরাফ",
+    "wordMeaning": "A tall African mammal with a long neck and legs."
+  },
+  {
+    "englishWord": "penguin",
+    "bengaliTranslation": "পেঙ্গুইন",
+    "wordMeaning": "A flightless bird native to the Southern Hemisphere."
+  },
+  {
+    "englishWord": "mango",
+    "bengaliTranslation": "আম",
+    "wordMeaning": "A tropical fruit with a sweet, juicy flesh and a thin skin."
+  },
+  {
+    "englishWord": "orange",
+    "bengaliTranslation": "কমলা",
+    "wordMeaning": "A round citrus fruit with a bright orange color and a tangy flavor."
+  },
+  {
+    "englishWord": "kiwi",
+    "bengaliTranslation": "কিউই",
+    "wordMeaning": "A small fruit with a brown, fuzzy skin and green flesh with black seeds."
+  },
+  {
+    "englishWord": "sunflower",
+    "bengaliTranslation": "সূর্যমুখী",
+    "wordMeaning": "A tall plant with a large, round flower head and yellow petals."
+  },
+  {
+    "englishWord": "tulip",
+    "bengaliTranslation": "টিউলিপ",
+    "wordMeaning": "A bulbous plant with showy, cup-shaped flowers."
+  },
+  {
+    "englishWord": "lion",
+    "bengaliTranslation": "সিংহ",
+    "wordMeaning": "A large, carnivorous cat known for its majestic appearance and roaring sound."
+  },
+  {
+    "englishWord": "cheetah",
+    "bengaliTranslation": "চিতা",
+    "wordMeaning": "A fast-running, spotted cat found in Africa and parts of Iran."
+  },
+  {
+    "englishWord": "giraffe",
+    "bengaliTranslation": "জিরাফ",
+    "wordMeaning": "A tall African mammal with a long neck and legs."
+  },
+  {
+    "englishWord": "penguin",
+    "bengaliTranslation": "পেঙ্গুইন",
+    "wordMeaning": "A flightless bird native to the Southern Hemisphere."
+  },
+  {
+    "englishWord": "elephant",
+    "bengaliTranslation": "হাতি",
+    "wordMeaning": "A large mammal with a long trunk, tusks, and big ears."
+  },
+  {
+    "englishWord": "lemon",
+    "bengaliTranslation": "লেবু",
+    "wordMeaning": "A yellow citrus fruit with a sour taste and acidic juice."
+  },
+  {
+    "englishWord": "pear",
+    "bengaliTranslation": "নাশপাতি",
+    "wordMeaning": "A sweet and juicy fruit with a narrow top and wider bottom."
+  },
+  {
+    "englishWord": "cherry",
+    "bengaliTranslation": "চেরি",
+    "wordMeaning": "A small, round fruit with a bright red or black skin and a sweet or sour taste."
+  },
+  {
+    "englishWord": "lavender",
+    "bengaliTranslation": "ধ্বজপত্রি",
+    "wordMeaning": "A fragrant plant with narrow leaves and purple flowers."
+  },
+  {
+    "englishWord": "daffodil",
+    "bengaliTranslation": "নরগিস",
+    "wordMeaning": "A spring-flowering plant with yellow or white flowers."
+  },
+  {
+    "englishWord": "leopard",
+    "bengaliTranslation": "তেঁতুড়ি",
+    "wordMeaning": "A large, carnivorous cat with a spotted coat and a strong, agile body."
+  },
+  {
+    "englishWord": "rhinoceros",
+    "bengaliTranslation": "গেঁড়া",
+    "wordMeaning": "A large, herbivorous mammal with one or two horns on its snout."
+  },
+  {
+    "englishWord": "hippopotamus",
+    "bengaliTranslation": "হিপোপটামাস",
+    "wordMeaning": "A large, herbivorous mammal with a barrel-shaped body and a large mouth."
+  },
+  {
+    "englishWord": "gazelle",
+    "bengaliTranslation": "মৃগমণি",
+    "wordMeaning": "A small, graceful antelope with slender legs and curved horns."
+  },
+  {
+    "englishWord": "crocodile",
+    "bengaliTranslation": "কুমির",
+    "wordMeaning": "A large aquatic reptile with a long snout and sharp teeth."
+  },
+  {
+    "englishWord": "abandon",
+    "bengaliTranslation": "পরিত্যাগ",
+    "wordMeaning": "To leave behind or give up completely."
+  },
+  {
+    "englishWord": "benefit",
+    "bengaliTranslation": "উপকার",
+    "wordMeaning": "An advantage or positive outcome."
+  },
+  {
+    "englishWord": "capable",
+    "bengaliTranslation": "সক্ষম",
+    "wordMeaning": "Having the ability or skill to do something."
+  },
+  {
+    "englishWord": "decade",
+    "bengaliTranslation": "দশক",
+    "wordMeaning": "A period of ten years."
+  },
+  {
+    "englishWord": "eager",
+    "bengaliTranslation": "আগ্রহশীল",
+    "wordMeaning": "Showing great enthusiasm or desire."
+  },
+  {
+    "englishWord": "fabulous",
+    "bengaliTranslation": "অসাধারণ",
+    "wordMeaning": "Extraordinary; exceptionally good."
+  },
+  {
+    "englishWord": "genuine",
+    "bengaliTranslation": "খাঁটি",
+    "wordMeaning": "Authentic; real; sincere."
+  },
+  {
+    "englishWord": "harmony",
+    "bengaliTranslation": "সমঝোতা",
+    "wordMeaning": "Agreement or pleasant combination of sounds, colors, or elements."
+  },
+  {
+    "englishWord": "improve",
+    "bengaliTranslation": "উন্নতি করা",
+    "wordMeaning": "To make better; enhance; progress."
+  },
+  {
+    "englishWord": "jovial",
+    "bengaliTranslation": "মধুরময়",
+    "wordMeaning": "Cheerful and friendly."
+  },
+  {
+    "englishWord": "knowledge",
+    "bengaliTranslation": "জ্ঞান",
+    "wordMeaning": "Facts, information, and skills acquired through education or experience."
+  },
+  {
+    "englishWord": "luminous",
+    "bengaliTranslation": "প্রকাশমান",
+    "wordMeaning": "Bright or shining; emitting light."
+  },
+  {
+    "englishWord": "magnificent",
+    "bengaliTranslation": "মহিমান্বিত",
+    "wordMeaning": "Grand or splendid; highly impressive."
+  },
+  {
+    "englishWord": "nurture",
+    "bengaliTranslation": "পরিপালন",
+    "wordMeaning": "To care for, support, or encourage the growth and development of something."
+  },
+  {
+    "englishWord": "optimistic",
+    "bengaliTranslation": "আশাবাদী",
+    "wordMeaning": "Having a positive outlook; expecting good outcomes."
+  },
+  {
+    "englishWord": "passionate",
+    "bengaliTranslation": "উদ্দীপ্ত",
+    "wordMeaning": "Having or showing intense emotionApologies for the interruption. "
+  },
+  {
+    "englishWord": "quench",
+    "bengaliTranslation": "শান্ত করা",
+    "wordMeaning": "To satisfy or extinguish (thirst, desire, or a feeling)."
+  },
+  {
+    "englishWord": "reliable",
+    "bengaliTranslation": "বিশ্বস্ত",
+    "wordMeaning": "Dependable; trustworthy; able to be relied on."
+  },
+  {
+    "englishWord": "simplify",
+    "bengaliTranslation": "সহজ করা",
+    "wordMeaning": "To make something easier to understand or do; to reduce complexity."
+  },
+  {
+    "englishWord": "tenacious",
+    "bengaliTranslation": "অটল",
+    "wordMeaning": "Persistent; determined; not easily giving up."
+  },
+  {
+    "englishWord": "ultimate",
+    "bengaliTranslation": "পরিণামস্বরূপ",
+    "wordMeaning": "Final; highest; being the best or most extreme example of its kind."
+  },
+  {
+    "englishWord": "vibrant",
+    "bengaliTranslation": "জীবন্ত",
+    "wordMeaning": "Full of life, energy, or activity; vividly colorful."
+  },
+  {
+    "englishWord": "wholesome",
+    "bengaliTranslation": "সম্পূর্ণ স্বাস্থ্যকর",
+    "wordMeaning": "Beneficial to physical, mental, or moral well-being."
+  },
+  {
+    "englishWord": "zealous",
+    "bengaliTranslation": "উদ্দীপ্ত",
+    "wordMeaning": "Having or showing great energy, enthusiasm, or fervor."
+  },
+  {
+    "englishWord": "adapt",
+    "bengaliTranslation": "অঙ্গীকার করা",
+    "wordMeaning": "To adjust or modify to fit new conditions or circumstances."
+  },
+  {
+    "englishWord": "brilliant",
+    "bengaliTranslation": "উজ্জ্বল",
+    "wordMeaning": "Exceptionally bright, radiant, or intelligent."
+  },
+  {
+    "englishWord": "curiosity",
+    "bengaliTranslation": "জিজ্ঞাসা",
+    "wordMeaning": "A strong desire to know or learn something."
+  },
+  {
+    "englishWord": "diligent",
+    "bengaliTranslation": "পরিশ্রমী",
+    "wordMeaning": "Hardworking and attentive to details."
+  },
+  {
+    "englishWord": "eloquent",
+    "bengaliTranslation": "বক্তব্যশক্তিসম্পন্ন",
+    "wordMeaning": "Expressing ideas or feelings fluently and persuasively."
+  },
+  {
+    "englishWord": "fascinate",
+    "bengaliTranslation": "আকর্ষিত করা",
+    "wordMeaning": "To attract and hold attention or interest."
+  },
+  {
+    "englishWord": "gregarious",
+    "bengaliTranslation": "সম্প্রদায়পরায়ণ",
+    "wordMeaning": "Sociable; fond of the company of others."
+  },
+  {
+    "englishWord": "hypothesis",
+    "bengaliTranslation": "অনুমান",
+    "wordMeaning": "A proposed explanation based on limited evidence as a starting point for further investigation."
+  },
+  {
+    "englishWord": "innovative",
+    "bengaliTranslation": "প্রবর্তনশীল",
+    "wordMeaning": "Introducing new ideas, methods, or products."
+  },
+  {
+    "englishWord": "jubilant",
+    "bengaliTranslation": "উল্লাসিত",
+    "wordMeaning": "Feeling or expressing great joy or triumph."
+  },
+  {
+    "englishWord": "knowledgeable",
+    "bengaliTranslation": "জ্ঞানী",
+    "wordMeaning": "Having or showing knowledge, intelligence, or understanding."
+  },
+  {
+    "englishWord": "lucid",
+    "bengaliTranslation": "স্বচ্ছ",
+    "wordMeaning": "Clear and easily understood; rational and sane."
+  },
+  {
+    "englishWord": "meticulous",
+    "bengaliTranslation": "অতিসতর্কশীল",
+    "wordMeaning": "Showing great attention to detail; very careful and precise."
+  },
+  {
+    "englishWord": "nurture",
+    "bengaliTranslation": "পরিপালন করা",
+    "wordMeaning": "To care for, support, or encourage the growth and development of something."
+  },
+  {
+    "englishWord":"optimistic",
+    "bengaliTranslation": "আশাবাদী",
+    "wordMeaning": "Having a positive outlook; expecting favorable outcomes."
+  },
+  {
+    "englishWord": "paradox",
+    "bengaliTranslation": "অন্তত",
+    "wordMeaning": "A statement or proposition that seems contradictory or absurd but may be true in reality."
+  },
+  {
+    "englishWord": "quintessential",
+    "bengaliTranslation": "পরিপূর্ণ মান",
+    "wordMeaning": "Representing the most perfect or typical example of something."
+  },
+  {
+    "englishWord": "resilient",
+    "bengaliTranslation": "পরাক্রমশীল",
+    "wordMeaning": "Able to withstand or recover quickly from difficult conditions."
+  },
+  {
+    "englishWord": "serendipity",
+    "bengaliTranslation": "আকস্মিক সৌভাগ্য",
+    "wordMeaning": "The occurrence of fortunate or unexpected discoveries by chance."
+  },
+  {
+    "englishWord": "tangible",
+    "bengaliTranslation": "সম্পূর্ণ",
+    "wordMeaning": "Perceptible by touch; capable of being touched or felt."
+  },
+  {
+    "englishWord": "unprecedented",
+    "bengaliTranslation": "অপূর্ব",
+    "wordMeaning": "Never done or known before; without any previous example."
+  },
+  {
+    "englishWord": "versatile",
+    "bengaliTranslation": "বহুমুখী",
+    "wordMeaning": "Able to adapt or be adapted to many different functions or activities."
+  },
+  {
+    "englishWord": "wanderlust",
+    "bengaliTranslation": "ভ্রমনপ্রিয়তা",
+    "wordMeaning": "A strong desire to travel or explore the world."
+  },
+  {
+    "englishWord": "xenophobia",
+    "bengaliTranslation": "জব্দবোধ",
+    "wordMeaning": "Fear or hatred of foreigners, strangers, or people from different cultures."
+  },
+  {
+    "englishWord": "yearn",
+    "bengaliTranslation": "কামনা করা",
+    "wordMeaning": "To have a strong desire or longing for something."
+  },
+  {
+    "englishWord": "zeal",
+    "bengaliTranslation": "আগ্রহ",
+    "wordMeaning": "Great enthusiasm or passion for a cause or objective."
+  },
+  {
+    "englishWord": "abundant",
+    "bengaliTranslation": "প্রচুর",
+    "wordMeaning": "Present in large quantities; plentiful."
+  },
+  {
+    "englishWord": "catalyst",
+    "bengaliTranslation": "ক্রিয়াকেন্দ্রক",
+    "wordMeaning": "A person or thing that precipitates an event or change."
+  },
+  {
+    "englishWord": "dynamic",
+    "bengaliTranslation": "গতিশীল",
+    "wordMeaning": "Characterized by constant change, activity, or progress."
+  },
+  {
+    "englishWord": "empathy",
+    "bengaliTranslation": "সহানুভূতি",
+    "wordMeaning": "The ability to understand and share the feelings of another."
+  },
+  {
+    "englishWord": "flourish",
+    "bengaliTranslation": "উন্নত হওয়া",
+    "wordMeaning": "To grow or develop in a healthy or vigorous way."
+  },
+  {
+    "englishWord": "genuine",
+    "bengaliTranslation": "সত্য",
+    "wordMeaning": "Authentic, sincere, and true; not fake or counterfeit."
+  },
+  {
+    "englishWord": "humble",
+    "bengaliTranslation": "নম্র",
+    "wordMeaning": "Having a modest opinion of oneself; not arrogant or prideful."
+  },
+  {
+    "englishWord": "integrity",
+    "bengaliTranslation": "সত্যতা",
+    "wordMeaning": "The quality of being honest, upright, and having strong moral principles."
+  },
+  {
+    "englishWord": "jovial",
+    "bengaliTranslation": "আনন্দময়",
+    "wordMeaning": "Full of happiness and joy; cheerful and friendly."
+  },
+  {
+    "englishWord": "keen",
+    "bengaliTranslation": "সতর্ক",
+    "wordMeaning": "Having a sharp or eager intellect; highly interested or enthusiastic."
+  },
+  {
+    "englishWord": "lucid",
+    "bengaliTranslation": "স্বচ্ছ",
+    "wordMeaning": "Clear and easily understood; rational and sane."
+  },
+  {
+    "englishWord": "meticulous",
+    "bengaliTranslation": "বিশেষজ্ঞ",
+    "wordMeaning": "Showing great attention to detail; precise and thorough."
+  },
+  {
+    "englishWord": "nurture",
+    "bengaliTranslation": "পালন করা",
+    "wordMeaning": "To care for, support, and encourage the growth and development of something or someone."
+  },
+  {
+    "englishWord": "optimistic",
+    "bengaliTranslation": "আশাবাদী",
+    "wordMeaning": "Having a positive outlook; expecting favorable outcomes."
+  },
+  {
+    "englishWord": "pioneer",
+    "bengaliTranslation": "প্রথম অবলম্বনকারী",
+    "wordMeaning": "A person who is among the first to explore or settle in a new area, or to develop new ideas or methods."
+  },
+  {
+    "englishWord": "quintessential",
+    "bengaliTranslation": "পরিপূর্ণ মান",
+    "wordMeaning": "Representing the most perfect or typical example of something."
+  },
+  {
+    "englishWord": "abundant",
+    "bengaliTranslation": "প্রচুর",
+    "wordMeaning": "Present in large quantities; plentiful."
+  },
+  {
+    "englishWord": "benevolent",
+    "bengaliTranslation": "উদার",
+    "wordMeaning": "Well-meaning and kind; characterized by goodwill."
+  },
+  {
+    "englishWord": "catalyst",
+    "bengaliTranslation": "ক্রিয়াকেন্দ্রক",
+    "wordMeaning": "A person or thing that precipitates an event or change."
+  },
+  {
+    "englishWord": "diligent",
+    "bengaliTranslation": "পরিশ্রমী",
+    "wordMeaning": "Showing persistent and hardworking effort in doing something."
+  },
+  {
+    "englishWord": "eloquent",
+    "bengaliTranslation": "শব্দসম্পন্ন",
+    "wordMeaning": "Expressing oneself fluently and persuasively in speech or writing."
+  },
+  {
+    "englishWord": "facetious",
+    "bengaliTranslation": "মিশ্র উপহাসপূর্ণ",
+    "wordMeaning": "Treating serious issues with deliberately inappropriate humor; flippant."
+  },
+  {
+    "englishWord": "gregarious",
+    "bengaliTranslation": "প্রবণ",
+    "wordMeaning": "Fond of company; sociable; enjoying the company of others."
+  },
+  {
+    "englishWord": "hypothesis",
+    "bengaliTranslation": "অনুমান",
+    "wordMeaning": "A proposed explanation based on limited evidence; a theory that is subject to further testing."
+  },
+  {
+    "englishWord": "impeccable",
+    "bengaliTranslation": "নির্দোষ",
+    "wordMeaning": "In accordance with the highest standards; faultless."
+  },
+  {
+    "englishWord": "juxtapose",
+    "bengaliTranslation": "পাশাপাশি অবস্থান করা",
+    "wordMeaning": "To place different things together to highlight contrasts or similarities."
+  },
+  {
+    "englishWord": "kinetic",
+    "bengaliTranslation": "চলমান",
+    "wordMeaning": "Relating to or resulting from motion; energetic or dynamic."
+  },
+  {
+    "englishWord": "lucid",
+    "bengaliTranslation": "স্পষ্টভাবে প্রকাশ করা",
+    "wordMeaning": "Clear and easily understood; rational and sane."
+  },
+  {
+    "englishWord": "malleable",
+    "bengaliTranslation": "আদর্শবাদী",
+    "wordMeaning": "Capable of being shaped or influenced; easily adaptable or controlled."
+  },
+  {
+    "englishWord": "abacus",
+    "bengaliTranslation": "গণনা যন্ত্র",
+    "wordMeaning": "A counting device consisting of rods or wires with movable counters."
+  },
+  {
+    "englishWord": "acumen",
+    "bengaliTranslation": "চতুরতা",
+    "wordMeaning": "The ability to make good judgments and quick decisions; keen insight."
+  },
+  {
+    "englishWord": "adroit",
+    "bengaliTranslation": "নিপুণ",
+    "wordMeaning": "Skillful and clever in using the hands or mind."
+  },
+  {
+    "englishWord": "aegis",
+    "bengaliTranslation": "প্রতিরক্ষা",
+    "wordMeaning": "Protection, support, or sponsorship."
+  },
+  {
+    "englishWord": "altruism",
+    "bengaliTranslation": "বিনয়",
+    "wordMeaning": "Selfless concern for the well-being of others; unselfishness."
+  },
+  {
+    "englishWord": "ambivalent",
+    "bengaliTranslation": "অনিশ্চিত",
+    "wordMeaning": "Having mixed feelings or contradictory ideas about someone or something."
+  },
+  {
+    "englishWord": "amiable",
+    "bengaliTranslation": "মনোয়ন্ত্রণশীল",
+    "wordMeaning": "Having a friendly and pleasant manner; likable."
+  },
+  {
+    "englishWord": "aplomb",
+    "bengaliTranslation": "অত্যুদার",
+    "wordMeaning": "Self-confidence or assurance, especially when in a demanding situation."
+  },
+  {
+    "englishWord": "arcane",
+    "bengaliTranslation": "গুপ্ত",
+    "wordMeaning": "Understood or known by only a few; mysterious or secret."
+  },
+  {
+    "englishWord": "assiduous",
+    "bengaliTranslation": "পরিশ্রমী",
+    "wordMeaning": "Showing great care, attention, and effort; diligent."
+  },
+  {
+    "englishWord": "benevolent",
+    "bengaliTranslation": "উদারমন্দ",
+    "wordMeaning": "Well-meaning and kind; characterized by goodwill."
+  },
+  {
+    "englishWord": "boisterous",
+    "bengaliTranslation": "উত্তেজিত",
+    "wordMeaning": "Noisy, energetic, and rowdy in a cheerful and high-spirited way."
+  },
+  {
+    "englishWord": "capricious",
+    "bengaliTranslation": "অনিয়মিত",
+    "wordMeaning": "Given to sudden and unaccountable changes of mood or behavior; unpredictable."
+  },
+  {
+    "englishWord": "cogent",
+    "bengaliTranslation": "প্রতিবাদযোগ্য",
+    "wordMeaning": "Clear, logical, and convincing; compelling."
+  },
+  {
+    "englishWord": "dynamic",
+    "bengaliTranslation": "গতিশীল",
+    "wordMeaning": "Characterized by constant change, activity, or progress."
+  },
+  {
+    "englishWord": "empathy",
+    "bengaliTranslation": "সহানুভূতি",
+    "wordMeaning": "The ability to understand and share the feelings of another."
+  },
+  {
+    "englishWord": "flourish",
+    "bengaliTranslation": "উন্নত হওয়া",
+    "wordMeaning": "To grow or develop in a healthy or vigorous way."
+  },
+  {
+    "englishWord": "genuine",
+    "bengaliTranslation": "সত্য",
+    "wordMeaning": "Authentic, sincere, and true; not fake or counterfeit."
+  },
+  {
+    "englishWord": "humble",
+    "bengaliTranslation": "নম্র",
+    "wordMeaning": "Having a modest opinion of oneself; not arrogant or prideful."
+  },
+  {
+    "englishWord": "integrity",
+    "bengaliTranslation": "সত্যতা",
+    "wordMeaning": "The quality of being honest, upright, and having strong moral principles."
+  },
+  {
+    "englishWord": "jovial",
+    "bengaliTranslation": "আনন্দময়",
+    "wordMeaning": "Full of happiness and joy; cheerful and friendly."
+  },
+  {
+    "englishWord": "keen",
+    "bengaliTranslation": "সতর্ক",
+    "wordMeaning": "Having a sharp or eager intellect; highly interested or enthusiastic."
+  },
+  {
+    "englishWord": "lucid",
+    "bengaliTranslation": "স্বচ্ছ",
+    "wordMeaning": "Clear and easily understood; rational and sane."
+  },
+  {
+    "englishWord": "meticulous",
+    "bengaliTranslation": "বিশেষজ্ঞ",
+    "wordMeaning": "Showing great attention to detail; precise and thorough."
+  },
+  {
+    "englishWord": "nurture",
+    "bengaliTranslation": "পালন করা",
+    "wordMeaning": "To care for, support, and encourage the growth and development of something or someone."
+  },
+  {
+    "englishWord": "optimistic",
+    "bengaliTranslation": "আশাবাদী",
+    "wordMeaning": "Having a positive outlook; expecting favorable outcomes."
+  },
+  {
+    "englishWord": "pioneer",
+    "bengaliTranslation": "প্রথম অবলম্বনকারী",
+    "wordMeaning": "A person who is among the first to explore or settle in a new area, or to develop new ideas or methods."
+  },
+  {
+    "englishWord": "quintessential",
+    "bengaliTranslation": "পরিপূর্ণ মান",
+    "wordMeaning": "Representing the most perfect or typical example of something."
+  },
+  {
+    "englishWord": "benevolent",
+    "bengaliTranslation": "উদার",
+    "wordMeaning": "Kind and generous."
+  },
+  {
+    "englishWord": "candid",
+    "bengaliTranslation": "অকপট",
+    "wordMeaning": "Open and honest."
+  },
+  {
+    "englishWord": "defiant",
+    "bengaliTranslation": "প্রতিস্পর্ধী",
+    "wordMeaning": "Resisting authority or control."
+  },
+  {
+    "englishWord": "eloquent",
+    "bengaliTranslation": "সুন্দর ভাষণবাদ",
+    "wordMeaning": "Expressing oneself fluently and persuasively."
+  },
+  {
+    "englishWord": "fickle",
+    "bengaliTranslation": "অস্থির",
+    "wordMeaning": "Changing frequently and unpredictably."
+  },
+  {
+    "englishWord": "gracious",
+    "bengaliTranslation": "প্রত্যাশিত",
+    "wordMeaning": "Courteous, kind, and pleasant."
+  },
+  {
+    "englishWord": "humble",
+    "bengaliTranslation": "মমতা জ্ঞান",
+    "wordMeaning": "Showing a modest or low view of one's importance."
+  },
+  {
+    "englishWord": "impeccable",
+    "bengaliTranslation": "বিনম্র",
+    "wordMeaning": "Flawless; perfect."
+  },
+  {
+    "englishWord": "jovial",
+    "bengaliTranslation": "সুখের দিকে তেমন মন",
+    "wordMeaning": "Full of happiness and joy; cheerful."
+  },
+  {
+    "englishWord": "keen",
+    "bengaliTranslation": "উদার",
+    "wordMeaning": "Having a sharp intellect or strong interest."
+  },
+  {
+    "englishWord": "lucid",
+    "bengaliTranslation": "প্রকাশপ্রাপ্ত",
+    "wordMeaning": "Clear and easily understood."
+  },
+  {
+    "englishWord": "meticulous",
+    "bengaliTranslation": "সতর্ক",
+    "wordMeaning": "Showing great attention to detail; careful and precise."
+  },
+  {
+    "englishWord": "nurture",
+    "bengaliTranslation": "পালন করা",
+    "wordMeaning": "To care for, support, and encourage the growth and development of something."
+  },
+  {
+    "englishWord": "optimistic",
+    "bengaliTranslation": "আশাবাদী",
+    "wordMeaning": "Having a positive outlook or attitude."
+  },
+  {
+    "englishWord": "benevolent",
+    "bengaliTranslation": "উদারমন্দ",
+    "wordMeaning": "Well-meaning and kind; characterized by goodwill."
+  },
+  {
+    "englishWord": "capricious",
+    "bengaliTranslation": "অনির্ণীত",
+    "wordMeaning": "Given to sudden and unaccountable changes of mood or behavior; unpredictable."
+  },
+  {
+    "englishWord": "diligent",
+    "bengaliTranslation": "পরিশ্রমী",
+    "wordMeaning": "Showing persistent and hardworking effort in doing something."
+  },
+  {
+    "englishWord": "eloquent",
+    "bengaliTranslation": "সুন্দর ভাষণবাদ",
+    "wordMeaning": "Expressing oneself fluently and persuasively in speech or writing."
+  },
+  {
+    "englishWord": "facetious",
+    "bengaliTranslation": "খাটমোজা ভাবে আচরণ করা",
+    "wordMeaning": "Treating serious issues with deliberately inappropriate humor; flippant."
+  },
+  {
+    "englishWord": "gregarious",
+    "bengaliTranslation": "সামাজিক",
+    "wordMeaning": "Fond of company; sociable; enjoying the company of others."
+  },
+  {
+    "englishWord": "hypothesis",
+    "bengaliTranslation": "অনুমান",
+    "wordMeaning": "A proposed explanation based on limited evidence; a theory that is subject to further testing."
+  },
+  {
+    "englishWord": "impeccable",
+    "bengaliTranslation": "নির্দোষ",
+    "wordMeaning": "In accordance with the highest standards; faultless."
+  },
+  {
+    "englishWord": "juxtapose",
+    "bengaliTranslation": "পাশাপাশি অবস্থান করা",
+    "wordMeaning": "To place different things together to highlight contrasts or similarities."
+  },
+  {
+    "englishWord": "kinetic",
+    "bengaliTranslation": "চলমান",
+    "wordMeaning": "Relating to or resulting from motion; energetic or dynamic."
+  },
+  {
+    "englishWord": "lucid",
+    "bengaliTranslation": "প্রকাশপ্রাপ্ত",
+    "wordMeaning": "Clear and easily understood; rational and sane."
+  },
+  {
+    "englishWord": "malleable",
+    "bengaliTranslation": "নমনীয়",
+    "wordMeaning": "Capable of being shaped or influenced; easily adaptable or controlled."
+  },
+  {
+    "englishWord": "benevolent",
+    "bengaliTranslation": "উদারমন্দ",
+    "wordMeaning": "Well-meaning and kind; characterized by goodwill."
+  },
+  {
+    "englishWord": "capricious",
+    "bengaliTranslation": "অনির্ণীত",
+    "wordMeaning": "Given to sudden and unaccountable changes of mood or behavior; unpredictable."
+  },
+  {
+    "englishWord": "diligent",
+    "bengaliTranslation": "পরিশ্রমী",
+    "wordMeaning": "Showing persistent and hardworking effort in doing something."
+  },
+  {
+    "englishWord": "eloquent",
+    "bengaliTranslation": "ভাষণশীল",
+    "wordMeaning": "Expressing oneself fluently and persuasively in speech or writing."
+  },
+  {
+    "englishWord": "facetious",
+    "bengaliTranslation": "খাটমোজা ভাবে আচরণ করা",
+    "wordMeaning": "Treating serious issues with deliberately inappropriate humor; flippant."
+  },
+  {
+    "englishWord": "gregarious",
+    "bengaliTranslation": "সামাজিক",
+    "wordMeaning": "Fond of company; sociable; enjoying the company of others."
+  },
+  {
+    "englishWord": "hypothesis",
+    "bengaliTranslation": "অনুমান",
+    "wordMeaning": "A proposed explanation based on limited evidence; a theory that is subject to further testing."
+  },
+  {
+    "englishWord": "impeccable",
+    "bengaliTranslation": "নির্দোষ",
+    "wordMeaning": "In accordance with the highest standards; faultless."
+  },
+  {
+    "englishWord": "juxtapose",
+    "bengaliTranslation": "পাশাপাশি অবস্থান করা",
+    "wordMeaning": "To place different things together to highlight contrasts or similarities."
+  },
+  {
+    "englishWord": "kinetic",
+    "bengaliTranslation": "চলমান",
+    "wordMeaning": "Relating to or resulting from motion; energetic or dynamic."
+  },
+  {
+    "englishWord": "lucid",
+    "bengaliTranslation": "প্রকাশপ্রাপ্ত",
+    "wordMeaning": "Clear and easily understood; rational and sane."
+  },
+  {
+    "englishWord": "malleable",
+    "bengaliTranslation": "নমনীয়",
+    "wordMeaning": "Capable of being shaped or influenced; easily adaptable or controlled."
+  },
+  {
+    "englishWord": "nuance",
+    "bengaliTranslation": "ছোঁচানো",
+    "wordMeaning": "A subtle difference in or shade"
+  },
+  {
+    "englishWord": "obscure",
+    "bengaliTranslation": "অপরিচিত",
+    "wordMeaning": "Not discovered or known about; uncertain."
+  },
+  {
+    "englishWord": "pervasive",
+    "bengaliTranslation": "প্রচলিত",
+    "wordMeaning": "Spreading widely throughout an area or a group of people; prevalent."
+  },
+  {
+    "englishWord": "quintessential",
+    "bengaliTranslation": "সর্বস্বত্বসম্পন্ন",
+    "wordMeaning": "Representing the most typical or perfect example of something; epitome."
+  },
+  {
+    "englishWord": "resilient",
+    "bengaliTranslation": "প্রতিস্থাপযোগ্য",
+    "wordMeaning": "Able to recover quickly from difficult conditions; flexible and adaptable."
+  },
+  {
+    "englishWord": "serendipity",
+    "bengaliTranslation": "আহ্লাদকর কিছু খুঁজে পেতে পেলে",
+    "wordMeaning": "The occurrence of fortunate discoveries by chance; finding valuable things unintentionally."
+  },
+  {
+    "englishWord": "tenacious",
+    "bengaliTranslation": "দৃঢ়",
+    "wordMeaning": "Tending to keep a firm hold of something; persistent and determined."
+  },
+  {
+    "englishWord": "ubiquitous",
+    "bengaliTranslation": "সর্বত্র উপস্থিত",
+    "wordMeaning": "Present, appearing, or found everywhere; omnipresent."
+  },
+  {
+    "englishWord": "vivacious",
+    "bengaliTranslation": "উদ্দীপ্ত",
+    "wordMeaning": "Lively and animated in character; full of energy and enthusiasm."
+  },
+  {
+    "englishWord": "whimsical",
+    "bengaliTranslation": "কাপড় করা",
+    "wordMeaning": "Playfully quaint or fanciful, especially in an appealing and amusing way."
+  },
+  {
+    "englishWord": "zealous",
+    "bengaliTranslation": "আবেগপূর্ণ",
+    "wordMeaning": "Having or showing zeal; passionately dedicated or enthusiastic."
+  },
+  {
+    "englishWord": "altruistic",
+    "bengaliTranslation": "পরার্থশীল",
+    "wordMeaning": "Showing a selfless concern for the well-being of others; unselfish."
+  },
+  {
+    "englishWord": "benevolent",
+    "bengaliTranslation": "উদারমন্দ",
+    "wordMeaning": "Well-meaning and kind; characterized by goodwill."
+  },
+  {
+    "englishWord": "capricious",
+    "bengaliTranslation": "অনির্ণীত",
+    "wordMeaning": "Given to sudden and unaccountable changes of mood or behavior; unpredictable."
+  },
+  {
+    "englishWord": "diligent",
+    "bengaliTranslation": "পরিশ্রমী",
+    "wordMeaning": "Showing persistent and hardworking effort in doing something."
+  },
+  {
+    "englishWord": "eloquent",
+    "bengaliTranslation": "ভাষণশীল",
+    "wordMeaning": "Expressing oneself fluently and persuasively in speech or writing."
+  },
+  {
+    "englishWord": "facetious",
+    "bengaliTranslation": "খাটমোজা ভাবে আচরণ করা",
+    "wordMeaning": "Treating serious issues with deliberately inappropriate humor; flippant."
+  },
+  {
+    "englishWord": "gregarious",
+    "bengaliTranslation": "সামাজিক",
+    "wordMeaning": "Fond of company; sociable; enjoying the company of others."
+  },
+  {
+    "englishWord": "hypothesis",
+    "bengaliTranslation": "অনুমান",
+    "wordMeaning": "A proposed explanation based on limited evidence; a theory that is subject to further testing."
+  },
+  {
+    "englishWord": "impeccable",
+    "bengaliTranslation": "নির্দোষ",
+    "wordMeaning": "In accordance with the highest standards; faultless."
+  },
+  {
+    "englishWord": "juxtapose",
+    "bengaliTranslation": "পাশাপাশি অবস্থান করা",
+    "wordMeaning": "To place different things together to highlight contrasts or similarities."
+  },
+  {
+    "englishWord": "kinetic",
+    "bengaliTranslation": "চলমান",
+    "wordMeaning": "Relating to or resulting from motion; energetic or dynamic."
+  },
+  {
+    "englishWord": "lucid",
+    "bengaliTranslation": "প্রকাশপ্রাপ্ত",
+    "wordMeaning": "Clear and easily understood; rational and sane."
+  },
+  {
+    "englishWord": "malleable",
+    "bengaliTranslation": "নমনীয়",
+    "wordMeaning": "Capable of being shaped or influenced; easily adaptable or controlled."
+  },
+  {
+    "englishWord": "nuance",
+    "bengaliTranslation": "ছোঁচানো",
+    "wordMeaning": "A subtle difference or distinction in expression, meaning, or response."
+  },
+  {
+    "englishWord": "omnipotent",
+    "bengaliTranslation": "সর্বশক্তিমান",
+    "wordMeaning": "Having unlimited power; able to do anything."
+  },
+  {
+    "englishWord": "paradox",
+    "bengaliTranslation": "অদ্ভুতভাবনা",
+    "wordMeaning": "A seemingly contradictory statement or situation that may reveal a hidden truth."
+  },
+  {
+    "englishWord": "quixotic",
+    "bengaliTranslation": "অপ্রয়োজনীয়",
+    "wordMeaning": "Exceedingly idealistic; unrealistic and impractical."
+  },
+  {
+    "englishWord": "rhetoric",
+    "bengaliTranslation": "শিল্পকথন",
+    "wordMeaning": "The art of effective or persuasive speaking or writing; language designed to have a persuasive or impressive effect."
+  },
+  {
+    "englishWord": "stoic",
+    "bengaliTranslation": "নিরবধি",
+    "wordMeaning": "Enduring pain or hardship without showing feelings or complaining; maintaining calm in the face of adversity."
+  },
+  {
+    "englishWord": "taciturn",
+    "bengaliTranslation": "মৌন",
+    "wordMeaning": "Reserved or uncommunicative in speech; saying little."
+  },
+  {
+    "englishWord": "ubiquity",
+    "bengaliTranslation": "সর্বব্যাপকতা",
+    "wordMeaning": "The state of being everywhere or in many places at the same time; omnipresence."
+  },
+  {
+    "englishWord": "vex",
+    "bengaliTranslation": "উদ্বেগ দেত্তয়া",
+    "wordMeaning": "To annoy, frustrate, or provoke someone; to cause distress or agitation."
+  },
+  {
+    "englishWord": "wary",
+    "bengaliTranslation": "সাবধান",
+    "wordMeaning": "Feeling or showing caution about possible dangers or problems; cautious and watchful."
+  }
+
+]

@@ -1,0 +1,103 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/projectTitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="50dp"
+        android:text="Knowledge Hunt"
+        android:textColor="@android:color/black"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="150dp"
+        android:text="Word Meaning" />
+
+<!--    <Button-->
+<!--        android:id="@+id/button2"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_marginTop="150dp"-->
+<!--        android:layout_marginRight="50dp"-->
+<!--        android:text="GK" />-->
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button1"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="25dp"
+        android:text="Circular" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button3"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="50dp"
+        android:text="Contact" />
+
+    <TextView
+        android:id="@+id/welcomeUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button3"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="200dp"
+        android:text="Welcome, "
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/userEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button3"
+        android:layout_alignParentLeft="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="150dp"
+        android:text="test"
+        android:textColor="@color/teal_700"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/logout_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/userEmail"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="30dp"
+        android:background="#E91E63"
+        android:text="Log Out" />
+
+    <TextView
+        android:id="@+id/projectCopyrightText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logout_button"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="80dp"
+        android:text="Copyright @2023 Ibrahim Riaz, Ashraful Alam"
+        android:textColor="@color/teal_700"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
