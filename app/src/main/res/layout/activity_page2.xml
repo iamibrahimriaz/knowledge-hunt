@@ -8,7 +8,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="General Knowledge:"
-        android:textColor="#000000"
+        android:textColor="@color/teal_700"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="50dp"
         android:textSize="20sp"
@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/text_view_gk"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="25dp"
         android:layout_marginLeft="50dp"
         android:text="Back to Homepage" />
 
